@@ -22,3 +22,4 @@ fun main() {
     println(data)
 }
 //test
+// тут небыло игоря
